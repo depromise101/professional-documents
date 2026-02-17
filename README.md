@@ -2,7 +2,7 @@
 This repository serves as a central, organized collection of my professional documents, certifications, and resume. It's designed to provide quick and easy access to my qualifications and career assets.
 
 Contents:
-Resume: My latest professional resume.
+Resume
 
 Certificates:
 
